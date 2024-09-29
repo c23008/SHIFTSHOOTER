@@ -1,11 +1,11 @@
-# POPTHROW
+# SHIFTSHOOTER
 
 ## ファイル構成  
-* [Unityデータ](https://github.com/c23008/POPTHROW/tree/master/ProjectData/POPTHROW)  
+* [Unityデータ](https://github.com/c23008/SHIFTSHOOTER/tree/master/SHIFTSHOOTERbeta_Data)  
 * [ビルドデータ](https://drive.google.com/drive/u/0/folders/1-t1VJWdACqt7LBpYwzlm5aj_wQWZXb9b)  
 
 ## ジャンル  
-3Dシューティングアクション
+2Dシューティングアクション
 
 ## プラットフォーム  
 * [Androidビルドデータ](https://drive.google.com/drive/u/0/folders/1Y21B8wULqMPryC4M7ckb3Ok8eJARKlL-)  
@@ -16,8 +16,8 @@
 * [ゴールに近づくとスローになる演出](https://github.com/c23008/POPTHROW/blob/master/ProjectData/POPTHROW/Assets/ScriptsFolder/SlowSC.cs)  
 
 ## ゲームルール  
-タブレット本体を振って炭酸の力を溜め、ジャイロで実際に狙って、ゴミ箱へ炭酸飲料を飛ばすゲーム。
-三種類の炭酸飲料や俯瞰視点などを駆使してより少ない打数でゴールを目指す。
+三種類の弾を状況に応じて使い分け、敵を倒すゲーム。
+ライフを削られないように多くの敵を倒し、最後のボスを倒してハイスコアを目指す。
 
 ## Unityバージョン  
 Unity 2021.3.30f1  
@@ -27,7 +27,9 @@ Unity 2021.3.30f1
 
 ## メンバー（役割）  
 * 呉屋匡哉（プログラマ）  
-* 兼島一穂（プログラマ）  
+* 田村向（グラフィッカー）
+* 新納功大（グラフィッカー）
+* ヨシダ太尊（グラフィッカー）  
 
 ## ゲームスクリーンショット  
 ![タイトル画面](./ScreenShot/Title.png)  

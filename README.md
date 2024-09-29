@@ -1,19 +1,18 @@
 # SHIFTSHOOTER
 
 ## ファイル構成  
-* [Unityデータ](https://github.com/c23008/SHIFTSHOOTER/tree/master/SHIFTSHOOTERbeta_Data)  
-* [ビルドデータ](https://drive.google.com/drive/u/0/folders/1-t1VJWdACqt7LBpYwzlm5aj_wQWZXb9b)  
+* [Unityデータ](https://github.com/c23008/SHIFTSHOOTER/tree/master/ProjectData)  
+* [ビルドデータ](https://drive.google.com/drive/u/0/folders/1_Pjd5mBxXGXmCVjB7Xb-xwA91DZpkCMs)  
 
 ## ジャンル  
 2Dシューティングアクション
 
 ## プラットフォーム  
-* [Androidビルドデータ](https://drive.google.com/drive/u/0/folders/1Y21B8wULqMPryC4M7ckb3Ok8eJARKlL-)  
-* [Windowsビルドデータ](https://drive.google.com/drive/u/0/folders/1t6oaL01yR57aoPzi14GXK-9HnIcslxKv)  
+* [Windowsビルドデータ](https://drive.google.com/drive/u/0/folders/1YBzOvZVYyG-SKxnoty0MdGfipRRfvN82)  
 
 ## 担当ブログラムファイル  
-* [プレイヤーの動き](https://github.com/c23008/POPTHROW/blob/master/ProjectData/POPTHROW/Assets/ScriptsFolder/PlayerControll.cs)  
-* [ゴールに近づくとスローになる演出](https://github.com/c23008/POPTHROW/blob/master/ProjectData/POPTHROW/Assets/ScriptsFolder/SlowSC.cs)  
+* [プレイヤーの動き](https://github.com/c23008/SHIFTSHOOTER/blob/master/ProjectData/SHIFTSHOOTERbeta/Assets/Scripts/PlayerScript.cs)  
+* [スコア表示](https://github.com/c23008/SHIFTSHOOTER/blob/master/ProjectData/SHIFTSHOOTERbeta/Assets/Scripts/EndScoreScript.cs)  
 
 ## ゲームルール  
 三種類の弾を状況に応じて使い分け、敵を倒すゲーム。
